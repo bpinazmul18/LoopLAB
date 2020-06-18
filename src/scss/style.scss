@@ -41,6 +41,15 @@ body{
     }
 }
 
+#explore-main-section{
+    .fa{
+        font-size: $icon-font-size;
+        background: $body-bg;
+        color: $font-color;
+        border-radius: 5px;
+        padding: 4px;
+    }
+}
 
 
 @media(max-width: 768px){
